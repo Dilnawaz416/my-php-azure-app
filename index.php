@@ -1,3 +1,1 @@
-<?php
-echo "Azure message displayed!";
-?>
+print("Azure message!")
